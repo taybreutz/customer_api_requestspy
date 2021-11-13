@@ -29,9 +29,9 @@ request_data = {
     # "hdnSecureText":"1",
     # "hdnQueryString":"",
     # "hdnPage":"",
-    "tbUsername":"mserra@1pfe.com",
-    "tbPassword":"treadmills",
-    "tbCompany":"first place fitness equipment",
+    "tbUsername": user,
+    "tbPassword": pw,
+    "tbCompany":company,
     "btnLogin":"Sign In",
     # "chkRememberMe":"on"
 }
